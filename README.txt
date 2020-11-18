@@ -1,0 +1,1 @@
+avd manager starten: ./emulator -avd NAME_OF_YOUR_DEVICE
